@@ -12,7 +12,7 @@
 #this script uses these user-defined environment variables: rclone_jobber, usb
 source="$HOME/test_rclone_data"
 dest="$usb/test_rclone_backup"
-options="--dry-run"
+#options="--dry-run"
 
 $rclone_jobber/rclone_jobber.sh "$source" "$dest" "$move_old_files_to" "$options" "$(basename $0)"
 

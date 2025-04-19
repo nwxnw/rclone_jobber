@@ -1,0 +1,26 @@
+2025/04/15 08:10:18 NOTICE: direc1/.hidden: Skipped copy as --dry-run is set (size 0)
+2025/04/15 08:10:18 NOTICE: direc1/f1: Skipped copy as --dry-run is set (size 0)
+2025/04/15 08:10:18 NOTICE: direc1/f2_exc: Skipped copy as --dry-run is set (size 0)
+2025/04/15 08:10:18 NOTICE: direc1/f3_exc.txt: Skipped copy as --dry-run is set (size 0)
+2025/04/15 08:10:18 NOTICE: .bashrc: Skipped copy as --dry-run is set (size 0)
+2025/04/15 08:10:18 NOTICE: direc1/.thingrc: Skipped copy as --dry-run is set (size 0)
+2025/04/15 08:10:18 NOTICE: direc1/f5_exc.not.txt: Skipped copy as --dry-run is set (size 0)
+2025/04/15 08:10:18 NOTICE: direc1/direc1c_exc/f1c: Skipped copy as --dry-run is set (size 0)
+2025/04/15 08:10:18 NOTICE: direc1/f6.bak: Skipped copy as --dry-run is set (size 0)
+2025/04/15 08:10:18 NOTICE: direc1/f4_excy: Skipped copy as --dry-run is set (size 0)
+2025/04/15 08:10:18 NOTICE: direc0/f0: Skipped copy as --dry-run is set (size 0)
+2025/04/15 08:10:18 NOTICE: direc1/direc1b/f1b: Skipped copy as --dry-run is set (size 0)
+2025/04/15 08:10:18 NOTICE: direc1/.git/f7: Skipped copy as --dry-run is set (size 0)
+2025/04/15 08:10:18 NOTICE: direc1/.hide/f8: Skipped copy as --dry-run is set (size 0)
+2025/04/15 08:10:18 NOTICE: direc1/direc1a/f1a: Skipped copy as --dry-run is set (size 0)
+2025/04/15 08:10:18 NOTICE: 
+Transferred:   	          0 B / 0 B, -, 0 B/s, ETA -
+Transferred:           15 / 15, 100%
+Elapsed time:         0.0s
+
+2025-04-15_08:10:18 completed job_backup_to_USB_minimal.sh
+
+2025-04-15_08:11:37 completed job_backup_to_USB_minimal.sh
+
+2025-04-15_08:14:51 completed job_backup_to_USB_minimal.sh
+
